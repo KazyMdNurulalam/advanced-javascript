@@ -1,4 +1,4 @@
-//  undefined easions list:
+//  undefined reason list:
 
 
 // let age;
